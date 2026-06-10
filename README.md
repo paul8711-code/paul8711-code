@@ -1,4 +1,4 @@
-- Hi, I’m @Paulprojects8711
+- Hi, I’m @paul8711-code
 - I’m interested in matrix stuff
 - I’m currently learning C++ and Rust
 - How to reach me: look on my website
