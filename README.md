@@ -1,7 +1,7 @@
 ## I’m @paul8711-code
 - interested in the Matrix protocol
 - currently learning C++ and Rust
-- Contact: support@paul8711.com
+- Contact: contact@paul8711.com
 
 ### Ecosystem & Languages
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white)
