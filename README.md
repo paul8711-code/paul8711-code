@@ -16,8 +16,9 @@
 - **[ion-mail](https://github.com/paul8711-code/ion-mail)** - Mail CLI in Rust supporting all mail functions & OAuth2 login
 - **[gcode-io](https://github.com/paul8711-code/gcode-io)** - Fast G-code / RS-274 generator and parser library for Rust
 - **[Matrix Rust SDK](https://github.com/matrix-org/matrix-rust-sdk)** - Contributing to help resolve issues to improve stability
+- and more...
 
-⚠️ **Many of the above projects are still in progress!** ⚠️
+**Many of the above projects are still in progress!**
 
 <!---
 Paulprojects8711/Paulprojects8711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
